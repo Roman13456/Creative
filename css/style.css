@@ -57,7 +57,7 @@ header .logo{border: none; padding: 0}
 }
 
 .container1{
-    display: flex; justify-content: space-between
+    display: flex; justify-content: space-between; max-width: 1060px;
 }
 .container1 div{
     max-width: 260px;
@@ -74,9 +74,33 @@ header .logo{border: none; padding: 0}
 .mini_container .first_child{
     font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
 }
-.container1:last-child{
-    max-width: 300px;
+.mini_container1 .first_child{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
 }
+.mini_container1{
+    display: flex; justify-content: space-between
+}
+.second{
+    margin-bottom: 120px
+}
+.third h3{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 15px;
+}
+.third .paragraph{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
+    max-width: 396px;
+}
+.third .container3{
+    display: flex; justify-content: space-between; align-items: flex-end;
+}
+.third .container2{
+    max-width: 416px; background: url('../images/low_background.jpg') center no-repeat
+}
+.container4{display: flex; flex-direction: column; max-width: 416px}
+.wrapper{
+    padding-bottom: 13px;
+}
+
 
 
 
