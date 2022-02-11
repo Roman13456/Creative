@@ -53,9 +53,39 @@ header .logo{border: none; padding: 0}
     margin-bottom: 141px; display: flex; justify-content: space-between; align-items: center; max-width: 1110px;
 }
 .second_section h2{
-    font-family: '20 Kopeek';font-style: normal;font-weight: normal;font-size: 55px;line-height: 100%;
+    font-family: '20 Kopeek';font-style: normal;font-weight: normal;font-size: 55px;line-height: 100%; margin-bottom: 40px;
 }
-.second_section ul{display: flex; justify-content: space-between}
+
+.container1{
+    display: flex; justify-content: space-between
+}
+.container1 div{
+    max-width: 260px;
+}
+.container1 .unique{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 15px; line-height: 19px; max-width: 260px;
+}
+.container1 p{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%; max-width: 122px;
+}
+.container1 .mini_container{
+    display: flex; justify-content: space-between; max-width:162px
+}
+.mini_container .first_child{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
+}
+.container1:last-child{
+    max-width: 300px;
+}
+
+
+
+/*.second span{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%; display: inline-block;
+}*/
+
+
+
 
 
 
