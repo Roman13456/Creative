@@ -94,11 +94,14 @@ header .logo{border: none; padding: 0}
     display: flex; justify-content: space-between; align-items: flex-end;
 }
 .third .container2{
-    max-width: 416px; background: url('../images/low_background.jpg') center no-repeat
+    padding: 11px 13px; max-width: 416px; background: url('../images/low_background.jpg') center no-repeat
 }
-.container4{display: flex; flex-direction: column; max-width: 416px}
+.container4{display: flex; flex-direction: column; align-items: center; max-width: 416px}
 .wrapper{
-    padding-bottom: 13px;
+    padding-bottom: 24px;
+}
+.container2 p{
+    max-width: 396px; color: #FFFFFF;
 }
 
 
