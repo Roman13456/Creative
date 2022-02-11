@@ -72,10 +72,10 @@ header .logo{border: none; padding: 0}
     display: flex; justify-content: space-between; max-width:162px
 }
 .mini_container .first_child{
-    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%; padding-right: 8px;
 }
 .mini_container1 .first_child{
-    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%; padding-right: 8px;
 }
 .mini_container1{
     display: flex; justify-content: space-between
@@ -104,12 +104,6 @@ header .logo{border: none; padding: 0}
     max-width: 396px; color: #FFFFFF;
 }
 
-
-
-
-/*.second span{
-    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%; display: inline-block;
-}*/
 
 
 
