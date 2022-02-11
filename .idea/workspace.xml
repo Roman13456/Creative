@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="first_article" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9ab3b018-5439-4e81-a47f-6cfa1ab48e6d" />
+        <option name="url" value="https://github.com/Roman13456/Creative.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="24eaEZoSKXg6LSZkA10m1iMNPy5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJECTS\Creative\images" />
+      <recent name="D:\PROJECTS\Creative\fonts" />
+      <recent name="D:\PROJECTS\new_project_2\images" />
+      <recent name="D:\PROJECTS\new_project_2\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="" />
+      <created>1643993394158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643993394158</updated>
+      <workItem from="1643993395255" duration="8120000" />
+      <workItem from="1644043317450" duration="2656000" />
+      <workItem from="1644074538313" duration="664000" />
+      <workItem from="1644167394271" duration="1405000" />
+      <workItem from="1644217280697" duration="665000" />
+      <workItem from="1644220537913" duration="5107000" />
+      <workItem from="1644225967025" duration="1263000" />
+      <workItem from="1644227297500" duration="5000" />
+      <workItem from="1644254919051" duration="2492000" />
+      <workItem from="1644305012725" duration="51000" />
+      <workItem from="1644312746182" duration="2464000" />
+      <workItem from="1644430389830" duration="1677000" />
+      <workItem from="1644499200707" duration="8997000" />
+      <workItem from="1644585696253" duration="4845000" />
+      <workItem from="1644590589282" duration="107000" />
+      <workItem from="1644590779309" duration="8000" />
+      <workItem from="1644590791411" duration="35000" />
+      <workItem from="1644591074346" duration="44000" />
+    </task>
+    <task id="LOCAL-00001" summary="first_article">
+      <created>1644502405960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644502405960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first_article">
+      <created>1644589418670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644589418670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first_article">
+      <created>1644590364204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644590364204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="ad33cd51-1557-42f1-abcb-921449caae55">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ad33cd51-1557-42f1-abcb-921449caae55" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first_article" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_article" />
+  </component>
+</project>

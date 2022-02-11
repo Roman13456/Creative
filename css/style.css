@@ -1,0 +1,68 @@
+@font-face {
+    font-family: '20 Kopeek';
+    src: url('../fonts/20Kopeek-Book.eot');
+    src: url('../fonts/20Kopeek-Book.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/20Kopeek-Book.woff2') format('woff2'),
+    url('../fonts/20Kopeek-Book.woff') format('woff'),
+    url('../fonts/20Kopeek-Book.ttf') format('truetype'),
+    url('../fonts/20Kopeek-Book.svg#20Kopeek-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+}
+.central_block{max-width: 1162px; margin: auto; display: flex; justify-content: space-between; align-items:center}
+.central_block1{max-width: 1162px; margin: auto}
+header{width: 100%; position: absolute;
+    top: 31px;
+}
+.main_page{margin-bottom: 80px; padding-top: 344px; background: url("../images/main_page.jpg") no-repeat; background-size: cover; height: 100vh}
+header p{max-width: 193px;   color: #FFFFFF;
+    font-family: '20 Kopeek';
+    font-style: normal; font-weight: normal; font-size: 15px;
+    line-height: 19px; margin-right: 489px}
+header a{padding: 7px 30px; color: #FFFFFF; display: inline-block; text-decoration: none; border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 15px}
+header .logo{border: none; padding: 0}
+.main_page h1{max-width: 560px;
+    font-family: '20 Kopeek'; margin-bottom: 30px;
+    font-size: 55px;
+    line-height: 100%;color: #181818}
+.main_page p{
+    font-family: '20 Kopeek';
+    font-size: 34px;
+    line-height: 110%;color: #181818}
+.main_page a{
+    margin-right: 20px;
+    font-family: '20 Kopeek';
+    font-style: normal;font-weight: normal;
+    font-size: 18px; color: #181818;
+    line-height: 140% ;text-decoration: none; display: inline-block; padding: 23px 47px; border-radius: 40px; background: #FFFFFF;}
+.main_page a:last-child{margin: 0}
+.icon{width: 36px; height: 36px; padding: 0; border-radius: 18px; display: flex; align-items: center; justify-content: center }
+.second_section h3{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 5px
+}
+.second_section p{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%; max-width: 445px;
+}
+.second_section .container{
+    margin-bottom: 141px; display: flex; justify-content: space-between; align-items: center; max-width: 1110px;
+}
+.second_section h2{
+    font-family: '20 Kopeek';font-style: normal;font-weight: normal;font-size: 55px;line-height: 100%;
+}
+.second_section ul{display: flex; justify-content: space-between}
+
+
+
+
+
+
+
+
+
+
