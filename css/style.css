@@ -187,7 +187,9 @@ article .d_flex p{padding-left: 14px;
 .form a{
     text-decoration: none;
 }
-
+.indent{display: inline-block;
+    margin-left: 11px;
+}
 
 
 
