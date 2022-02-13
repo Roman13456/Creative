@@ -106,6 +106,46 @@ header .logo{border: none; padding: 0}
 .container2 {
     max-width: 396px; color: #FFFFFF;
 }
+.third_section img{
+    margin-bottom: 38px;
+}
+.wrapper-first{
+    display: flex; justify-content: space-between; align-items: center;
+}
+.third_section article:first-child div{
+    max-width: 516px;
+}
+.third_section article:nth-child(2) div{
+    max-width: 588px;
+}
+.third_section article:nth-child(3) div{
+    max-width: 450px;
+}
+.third_section article:nth-child(4) div{
+    max-width: 582px;
+}
+.third_section a{border: 1px solid #181818;
+    box-sizing: border-box; text-decoration: none;
+    border-radius: 40px; padding: 23px 47px; display: inline-block;color: #181818;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
+
+}
+.third_section h3{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
+}
+.third_section article p{ max-width: 233px;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%; margin-top: -10px;
+}
+.wrapper-first div a:last-child{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 26px; line-height: 110%;color: #FFFFFF;background: #2B59C3
+}
+.third_section article{
+    margin-bottom:100px;
+}
+.third_section article:last-child{
+    margin: 0; padding-bottom: 100px;
+}
+
 
 
 
