@@ -83,6 +83,9 @@ header .logo{border: none; padding: 0}
 .second{
     margin-bottom: 120px
 }
+.third{
+    padding-bottom: 133px
+}
 .third h3{
     font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 15px;
 }
@@ -100,9 +103,10 @@ header .logo{border: none; padding: 0}
 .wrapper{
     padding-bottom: 24px;
 }
-.container2 p{
+.container2 {
     max-width: 396px; color: #FFFFFF;
 }
+
 
 
 
