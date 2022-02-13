@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: '20 Kopeek';
     src: url('../fonts/20Kopeek-Book.eot');
@@ -34,7 +35,7 @@ header .logo{border: none; padding: 0}
 .main_page p{
     font-family: '20 Kopeek';
     font-size: 34px;
-    line-height: 110%;color: #181818}
+    line-height: 110%;color: #181818; margin-bottom: 65px}
 .main_page a{
     margin-right: 20px;
     font-family: '20 Kopeek';
@@ -94,22 +95,20 @@ header .logo{border: none; padding: 0}
     max-width: 396px;
 }
 .third .container3{
-    display: flex; justify-content: space-between; align-items: flex-end;
+    display: flex; justify-content: space-between; align-items: flex-end ;
 }
 .third .container2{
     padding: 11px 13px; max-width: 416px; background: url('../images/low_background.jpg') center no-repeat
 }
 .container4{display: flex; flex-direction: column; align-items: center; max-width: 416px}
-.wrapper{
-    padding-bottom: 24px;
-}
+
 .container2 {
     max-width: 396px; color: #FFFFFF;
 }
 .third_section img{
     margin-bottom: 38px;
 }
-.wrapper-first{
+article .wrapper-first{
     display: flex; justify-content: space-between; align-items: center;
 }
 .third_section article:first-child div{
@@ -124,7 +123,7 @@ header .logo{border: none; padding: 0}
 .third_section article:nth-child(4) div{
     max-width: 582px;
 }
-.third_section a{border: 1px solid #181818;
+.third_section article a{border: 1px solid #181818;
     box-sizing: border-box; text-decoration: none;
     border-radius: 40px; padding: 23px 47px; display: inline-block;color: #181818;
     font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
@@ -134,18 +133,57 @@ header .logo{border: none; padding: 0}
     font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%;
 }
 .third_section article p{ max-width: 233px;
-    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%; margin-top: -10px;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%
 }
-.wrapper-first div a:last-child{
-    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 26px; line-height: 110%;color: #FFFFFF;background: #2B59C3
-}
+
 .third_section article{
     margin-bottom:100px;
 }
-.third_section article:last-child{
-    margin: 0; padding-bottom: 100px;
+.third_section{
+    padding-bottom: 150px;
 }
-
+.third_section .unique1{
+    position: relative;left: 351px;background: #2B59C3;
+    border-radius: 40px;font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 26px; line-height: 110%;color: white;
+}
+.d_flex{
+    display: flex; justify-content: space-between; align-items: flex-start;
+}
+article .d_flex p{padding-left: 14px;
+    max-width: 431px;
+}
+.d_flex p:first-child{background: #2B59C3; padding: 11px 39px 18px 14px;
+    border-radius: 5px;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 26px; line-height: 110%;color: #FFFFFF; max-width: 406px; margin-bottom: 15px;
+}
+.guideline h3{font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 15px;
+}
+.third_section .guideline{
+    margin-bottom: 77px;
+}
+.form h3{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 11px;
+}
+.form .form_dd{ font-family: '20 Kopeek'; font-style: normal; font-weight: normal;font-size: 26px; line-height: 110%; margin-bottom: 27px;
+}
+.form input{
+    border: 1px solid #181818; box-sizing: border-box; border-radius: 10px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color:#868686;
+}
+.d_flex1 input:nth-child(2){
+    max-width: 350px; width: 100%;
+}
+.d_flex1 input:nth-child(4){
+    max-width: 350px; width: 100%;
+}
+.form .d_flex1{ flex-basis: 0;
+    display: flex; justify-content: space-between; margin-bottom: 21px; max-width: 988px;
+}
+.form div input:last-child{
+    background: #2B59C3; border-radius: 40px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #FFFFFF; padding: 23px 47px;
+}
+.form a{
+    text-decoration: none;
+}
 
 
 
