@@ -166,7 +166,7 @@ article .d_flex p{padding-left: 14px;
 }
 .form .form_dd{ font-family: '20 Kopeek'; font-style: normal; font-weight: normal;font-size: 26px; line-height: 110%; margin-bottom: 27px;
 }
-.form input{min-width: 0;
+.form input{min-width: 0; padding: 23px 0 23px 29px;
     border: 1px solid #181818; box-sizing: border-box; border-radius: 10px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color:#868686;
 }
 .d_flex1 input:nth-child(2){
