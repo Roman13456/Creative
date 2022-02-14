@@ -11,7 +11,6 @@
 </head>
 <body>
     <header>
-        <p></p>
         <div class="central_block">
             <a class="logo" href="#">
                 <img src="images/logo.svg" alt="logo">
@@ -153,14 +152,14 @@
                 <h3>Оставьте заявку на разработку вашего продукта</h3>
                 <p class="form_dd">Наши эксперты свяжутся с вами в ближайшее время</p>
                 <div class="d_flex1">
-                    <label for="form_name"></label>
-                    <input class="input" id="form_name" placeholder="Ваше Имя">
-                    <label for="form_tel"></label>
-                    <input id="form_tel" placeholder="+7 (999) 999-99-99">
+                    <label for="firstName"></label>
+                    <input class="input" name="firstName" id="firstName" placeholder="Ваше Имя">
+                    <label for="tel"></label>
+                    <input type="tel" name="tel" id="tel" placeholder="+7 (999) 999-99-99">
                     <input type="submit" value="Оставить заявку">
                 </div>
-                <label for="checkbox"></label>
-                <input id="checkbox" type="checkbox"><p class="indent"> Я принимаю <a href="#">условия передачи персональных данных</a></p>
+                <input id="checkbox" name="checkbox" type="checkbox">
+                <label class="indent" for="checkbox">Я принимаю <a href="#">условия передачи персональных данных</a></label>
             </form>
         </div>
     </section>

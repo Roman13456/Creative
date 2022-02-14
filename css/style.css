@@ -182,7 +182,7 @@ article .d_flex p{padding-left: 14px;
     display: flex; justify-content: space-between; margin-bottom: 21px; max-width: 988px;
 }
 .form div input:last-child{
-    background: #2B59C3; border-radius: 40px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #FFFFFF; padding: 23px 47px;
+    background: #2B59C3; border-radius: 40px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #FFFFFF; padding: 23px 47px; cursor: pointer;
 }
 .form a{
     text-decoration: none;

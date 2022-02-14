@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add checkbox indent" />
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add correct input paddings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new_project" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,6 +91,11 @@
       <workItem from="1644746817290" duration="13159000" />
       <workItem from="1644768188324" duration="892000" />
       <workItem from="1644769093981" duration="11120000" />
+      <workItem from="1644781513506" duration="100000" />
+      <workItem from="1644822748263" duration="94000" />
+      <workItem from="1644822850703" duration="11000" />
+      <workItem from="1644823842891" duration="3732000" />
+      <workItem from="1644857909613" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -179,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644780300460</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add correct input paddings">
+      <created>1644781607435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1644781607435</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +255,7 @@
     <MESSAGE value="looking for input flex" />
     <MESSAGE value="add label(display:none)" />
     <MESSAGE value="add checkbox indent" />
-    <option name="LAST_COMMIT_MESSAGE" value="add checkbox indent" />
+    <MESSAGE value="add correct input paddings" />
+    <option name="LAST_COMMIT_MESSAGE" value="add correct input paddings" />
   </component>
 </project>
