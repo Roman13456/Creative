@@ -190,6 +190,37 @@ article .d_flex p{padding-left: 14px;
 .indent{display: inline-block;
     margin-left: 11px;
 }
+.flex_container{
+    display: flex;flex-wrap: wrap; justify-content: space-between; max-width: 920px; margin-bottom: 60px;
+}
+.first_cell{
+    max-width: 283px; width: 100%;
+}
+.cell{
+    max-width: 160px;
+}
+.flex_container p{ font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 15px; line-height: 19px;
+}
+.flex_container strong{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
+}
+.first_cell p{ font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 26px; line-height: 110%;
+}
+.first_cell img{
+    margin-bottom: 23px;
+}
+.cell p:first-child{
+    margin-bottom: 15px;
+}
+.fourth h2{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 55px; line-height: 100%; margin-bottom: 83px;
+}
+ .flex_container:last-child {
+     max-width: 960px
+}
+ .flex_container:last-child div:last-child{
+     max-width: 200px;
+ }
 
 
 
