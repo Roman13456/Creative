@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add correct border">
-      <change afterPath="$PROJECT_DIR$/images/book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/document.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lamp.svg" afterDir="false" />
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add flex_box">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -103,7 +100,7 @@
       <workItem from="1645027944693" duration="3952000" />
       <workItem from="1645108253620" duration="2963000" />
       <workItem from="1645111246574" duration="996000" />
-      <workItem from="1645257794539" duration="5300000" />
+      <workItem from="1645257794539" duration="7442000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -217,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645108483705</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add flex_box">
+      <created>1645263158909</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645263158910</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +284,7 @@
     <MESSAGE value="add correct input paddings" />
     <MESSAGE value="add correct form" />
     <MESSAGE value="add correct border" />
-    <option name="LAST_COMMIT_MESSAGE" value="add correct border" />
+    <MESSAGE value="add flex_box" />
+    <option name="LAST_COMMIT_MESSAGE" value="add flex_box" />
   </component>
 </project>
