@@ -20,14 +20,20 @@ header{width: 100%; position: absolute;
     top: 31px;
 }
 .main_page{margin-bottom: 80px; padding-top: 344px; background: url("../images/main_page.jpg") no-repeat; background-size: cover; height: 100vh}
+header div:first-child{
+    display: flex
+}
 header p{max-width: 193px;   color: #FFFFFF;
     font-family: '20 Kopeek';
     font-style: normal; font-weight: normal; font-size: 15px;
-    line-height: 19px; margin-right: 489px}
-header a{padding: 7px 30px; color: #FFFFFF; display: inline-block; text-decoration: none; border: 1px solid #FFFFFF;
+    line-height: 19px; display: inline-block; margin-left: 22px}
+.head_container {
+    max-width: 322px; display: flex; justify-content: space-between; width: 100%
+}
+header a{padding: 10px 30px; color: #FFFFFF; display: inline-block; text-decoration: none; border: 1px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 15px}
-header .logo{border: none; padding: 0}
+header .logo{border: none; padding: 0; display: inline-block}
 .main_page h1{max-width: 560px;
     font-family: '20 Kopeek'; margin-bottom: 30px;
     font-size: 55px;

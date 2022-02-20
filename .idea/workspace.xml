@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add bag section">
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add correct header">
+      <change afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Rectangle52.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PROJECTS\Creative\images" />
+      <recent name="D:\PROJECTS\Creative\css" />
       <recent name="D:\PROJECTS\Creative\fonts" />
       <recent name="D:\PROJECTS\new_project_2\images" />
       <recent name="D:\PROJECTS\new_project_2\css" />
@@ -99,7 +103,10 @@
       <workItem from="1645027944693" duration="3952000" />
       <workItem from="1645108253620" duration="2963000" />
       <workItem from="1645111246574" duration="996000" />
-      <workItem from="1645257794539" duration="12676000" />
+      <workItem from="1645257794539" duration="12874000" />
+      <workItem from="1645351116127" duration="1694000" />
+      <workItem from="1645361812497" duration="2294000" />
+      <workItem from="1645366601023" duration="2731000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -241,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645268824833</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add correct wrap">
+      <created>1645271303937</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1645271303937</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +321,8 @@
     <MESSAGE value="add flex_box" />
     <MESSAGE value="add dynamic flex_box" />
     <MESSAGE value="add bag section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bag section" />
+    <MESSAGE value="add correct wrap" />
+    <MESSAGE value="add correct header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add correct header" />
   </component>
 </project>

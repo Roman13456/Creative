@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 992px) {
+
+}
+@media only screen and (max-width: 768px) {
+
+    .head_container {
+        display: none;
+    }
+    .central_block a:first-child{
+        margin-left: 39px;
+    }
+    .main_page{
+        background: url("../images/Rectangle52.jpg") no-repeat; background-size: cover;
+    }
+    .main_page .central_block1 h1{
+        color: #FFFFFF;
+    }
+    .main_page .central_block1 p{
+        color: #FFFFFF;
+    }
+}
+@media only screen and (max-width: 420px) {
+
+}
+@media only screen and (max-width: 375px) {
+
+}
+@media only screen and (max-width: 360px) {
+
+}
+@media only screen and (max-width: 320px) {
+
+}
