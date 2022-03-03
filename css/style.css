@@ -11,6 +11,7 @@
     font-style: normal;
     font-display: swap;
 }
+
 li {
     list-style-type: none; /* Убираем маркеры */
 }
@@ -34,6 +35,18 @@ header a{padding: 10px 30px; color: #FFFFFF; display: inline-block; text-decorat
     box-sizing: border-box;
     border-radius: 15px}
 header .logo{border: none; padding: 0; display: inline-block}
+.pic{
+    max-width: 635px; margin-right: 30px;
+}
+.d_block{
+    display: block;
+}
+.container3 .d_block{
+    max-width: 634px;
+}
+.w-100{
+    width: 100%;
+}
 .main_page h1{max-width: 560px;
     font-family: '20 Kopeek'; margin-bottom: 30px;
     font-size: 55px;
