@@ -117,7 +117,8 @@ header .logo{border: none; padding: 0; display: inline-block}
     display: flex; justify-content: space-between; align-items: flex-end ;
 }
 .third .container2{
-    padding: 11px 13px; max-width: 416px; background: url('../images/low_background.jpg') center no-repeat
+    padding: 11px 13px; max-width: 416px; background: #2B59C3;
+    border-radius: 5px;
 }
 .container4{display: flex; flex-direction: column; align-items: center; max-width: 416px}
 
@@ -130,16 +131,19 @@ header .logo{border: none; padding: 0; display: inline-block}
 article .wrapper-first{
     display: flex; justify-content: space-between; align-items: center;
 }
-.third_section article:first-child div{
+.third_section article:first-child div:last-child{
     max-width: 516px;
 }
-.third_section article:nth-child(2) div{
+.guideline .d_block{
+    margin-right: 30px;
+}
+.third_section article:nth-child(2) div:last-child{
     max-width: 588px;
 }
-.third_section article:nth-child(3) div{
+.third_section article:nth-child(3) div:last-child{
     max-width: 450px;
 }
-.third_section article:nth-child(4) div{
+.third_section article:nth-child(4) div:last-child{
     max-width: 582px;
 }
 .third_section article a{border: 1px solid #181818;

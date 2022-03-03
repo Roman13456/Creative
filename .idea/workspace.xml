@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add correct header">
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add some media">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -113,7 +113,7 @@
       <workItem from="1646140942096" duration="29000" />
       <workItem from="1646140999303" duration="217000" />
       <workItem from="1646148710862" duration="930000" />
-      <workItem from="1646219484391" duration="3747000" />
+      <workItem from="1646219484391" duration="9286000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645271303937</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add some media">
+      <created>1646304081725</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1646304081725</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +336,7 @@
     <MESSAGE value="add bag section" />
     <MESSAGE value="add correct wrap" />
     <MESSAGE value="add correct header" />
-    <option name="LAST_COMMIT_MESSAGE" value="add correct header" />
+    <MESSAGE value="add some media" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some media" />
   </component>
 </project>

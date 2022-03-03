@@ -2,6 +2,37 @@
 
 }
 @media only screen and (max-width: 992px) {
+    .central_block1{
+        max-width: 930px;
+    }
+    .central_block{
+        max-width: 930px;
+    }
+    .flex_container:last-child .flex_box div:last-child {
+        max-width: 160px;
+    }
+    .flex_container:last-child .flex_box{
+        max-width: 540px
+    }
+    .flex_container:last-child {
+        max-width: 920px;
+    }
+    .flex_container strong{
+        font-size: 16px;
+    }
+    .flex_container p{
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .first_cell p{
+        font-size: 20px;
+    }
+    .third_section article p{
+        font-size: 16px
+    }
+    .d_flex p:first-child{
+        font-size: 20px;
+    }
     .second_section p {
         font-family: '20 Kopeek';
         font-style: normal;
@@ -33,7 +64,9 @@ header a{
 
 }
 @media only screen and (max-width: 768px) {
-
+.central_block1{
+    max-width: 689px;
+}
     .head_container {
         display: none;
     }
