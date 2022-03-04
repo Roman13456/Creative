@@ -282,15 +282,17 @@
     </section>
     <section class="contacts_form">
         <div class="central_block1">
-            <form class="footer_form flex_box_" action="" method="get" name="form">
+            <form class="footer_form flex_box_ flex_start align_center" action="" method="get" name="form">
                 <div  class="w-100 flex_box_ flex-column">
                     <h3>Связаться с нами</h3>
                     <label for="firstName"></label>
                     <input name="firstName" id="firstName" placeholder="Ваше Имя">
                     <label for="tel"></label>
                     <input type="tel" name="tel" id="tel" placeholder="+7 (999) 999-99-99">
-                    <input id="checkbox" name="checkbox" type="checkbox">
-                    <label class="indent" for="checkbox">Я принимаю <a href="#">условия передачи персональных данных</a></label>
+                    <div>
+                        <input id="checkbox" name="checkbox" type="checkbox">
+                        <label for="checkbox">Я принимаю <a href="#">условия передачи персональных данных</a></label>
+                    </div>
                     <input type="submit" value="Оставить заявку">
                 </div>
                 <div>
@@ -300,8 +302,8 @@
                     <p>Москва, Садовническая улица 69</p>
                 </div>
             </form>
-            <h3>Мы в СМИ</h3>
-            <div class="flex_box_ space-between">
+            <h3 class="heading">Мы в СМИ</h3>
+            <div class="flex_box_ space-between flex_start">
                 <a href="#">
                     История агентства FREE.creative<br><br>
                     vc.ru
@@ -319,7 +321,7 @@
                     vc.ru
                 </a>
             </div>
-            <p>@ FREE.creative 2008—2020</p>
+            <p class="website_signature">@ FREE.creative 2008—2020</p>
         </div>
     </section>
 </body>

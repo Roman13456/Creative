@@ -198,20 +198,69 @@ article .d_flex p{padding-left: 14px;
 .footer_form input:nth-child(5){
     margin-bottom: 21px;
 }
-.footer_form h3{
+.contacts_form h3{
     font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 38px; line-height: 110%; margin-bottom: 30px;
 }
 .contacts_form{
     padding: 150px 0 20px;
 }
+
 .footer_form input{
     max-width: 445px; width: 100%;font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #868686; padding: 23px 0 23px 29px;border: 1px solid #181818; box-sizing: border-box; border-radius: 10px;
+}
+.footer_form input:last-child{
+    border: none;background: #2B59C3;
+    border-radius: 40px;max-width: 228px;color: #FFFFFF;padding: 23px 0;
+}
+.w-100.flex_box_.flex-column input:last-child{
+    margin-bottom: 127px;
+}
+.footer_form
+.align_center{
+    align-items:center ;
+}
+
+.footer_form div div input{
+    max-width: 18px;
+}
+.footer_form div div{
+    margin-bottom: 48px;
+}
+.footer_form p{
+    font-family: '20 Kopeek';   font-style: normal;   font-weight: normal;   font-size: 26px;   line-height: 110%; margin-bottom: 15px;
+}
+
+.flex_start{
+    align-items: flex-start;
+}
+a{
+    text-decoration: none;
+}
+.footer_form label:nth-child(7){
+    margin-bottom: 48px;
+}
+.website_signature{
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
 }
 .space-between{
     justify-content: space-between;
 }
+.contacts_form .central_block1 .heading{
+    margin-bottom: 10px;
+}
 .form input{min-width: 0; padding: 23px 0 23px 29px;
     border: 1px solid #181818; box-sizing: border-box; border-radius: 10px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color:#868686;
+}
+.contacts_form .flex_box_.space-between a{
+    max-width: 255px;
+    width: 100%;; background: #2B59C3; border-radius: 10px; margin-right: 30px;color: #FFFFFF; padding: 6px 4px 0 10px;
+    font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;
+}
+.contacts_form .flex_box_.space-between.flex_start{
+    margin-bottom: 38px;
+}
+.contacts_form a:last-child{
+    margin: 0;
 }
 .d_flex1 input:nth-child(2){
     max-width: 350px; width: 100%;
