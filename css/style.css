@@ -284,7 +284,7 @@ a{
     text-decoration: none;
 }
 .indent{display: inline-block;
-    margin-left: 11px; margin-bottom: 30px;
+    margin-left: 11px; margin-bottom: 30px;font-family: '20 Kopeek';font-style: normal;font-weight: normal; font-size: 18px; line-height: 140%;
 }
 .another_submit{
     display: none;
