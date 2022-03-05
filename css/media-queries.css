@@ -5,6 +5,12 @@
     .central_block1{
         max-width: 930px;
     }
+    .form input:last-child{
+        display: none;
+    }
+    .central_block1 .form .another_submit{
+        display: block;
+    }
     .form .d_flex1{
         flex-wrap: wrap;
     }

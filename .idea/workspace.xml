@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="finished last section">
-      <change afterPath="$PROJECT_DIR$/images/guideline_2.jpg" afterDir="false" />
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="a little bit of media">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -115,7 +114,7 @@
       <workItem from="1646140999303" duration="217000" />
       <workItem from="1646148710862" duration="930000" />
       <workItem from="1646219484391" duration="20025000" />
-      <workItem from="1646491896991" duration="9026000" />
+      <workItem from="1646491896991" duration="10374000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646412689685</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="a little bit of media">
+      <created>1646504182091</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646504182091</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +369,7 @@
     <MESSAGE value="80% media for 992px" />
     <MESSAGE value="start of footer_form" />
     <MESSAGE value="finished last section" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished last section" />
+    <MESSAGE value="a little bit of media" />
+    <option name="LAST_COMMIT_MESSAGE" value="a little bit of media" />
   </component>
 </project>

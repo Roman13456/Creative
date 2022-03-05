@@ -277,14 +277,17 @@ a{
 .form .d_flex1{
     display: flex; justify-content: space-between; margin-bottom: 21px; max-width: 988px;
 }
-.form div input:last-child{
+.form input:last-child{
     background: #2B59C3;border: none ;border-radius: 40px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #FFFFFF; padding: 23px 47px; cursor: pointer;
 }
 .form a{
     text-decoration: none;
 }
 .indent{display: inline-block;
-    margin-left: 11px;
+    margin-left: 11px; margin-bottom: 30px;
+}
+.another_submit{
+    display: none;
 }
 .flex_container{
     display: flex;flex-wrap: wrap; justify-content: space-between; max-width: 920px; margin-bottom: 60px;
