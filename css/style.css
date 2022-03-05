@@ -219,13 +219,16 @@ article .d_flex p{padding-left: 14px;
 .align_center{
     align-items:center ;
 }
-
+.guideline .w-100.pic{
+    display: none;
+}
 .footer_form div div input{
     max-width: 18px;
 }
 .footer_form div div{
     margin-bottom: 48px;
 }
+
 .footer_form p{
     font-family: '20 Kopeek';   font-style: normal;   font-weight: normal;   font-size: 26px;   line-height: 110%; margin-bottom: 15px;
 }
@@ -265,11 +268,11 @@ a{
 .d_flex1 input:nth-child(2){
     max-width: 350px; width: 100%;
 }
-.d_flex1 input:nth-child(4){
-    max-width: 350px; width: 100%;
-}
 .d_flex1 label{
     display: none;
+}
+.d_flex1 input:nth-child(4){
+    max-width: 350px; width: 100%;
 }
 .form .d_flex1{
     display: flex; justify-content: space-between; margin-bottom: 21px; max-width: 988px;

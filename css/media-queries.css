@@ -5,6 +5,15 @@
     .central_block1{
         max-width: 930px;
     }
+    .form .d_flex1{
+        flex-wrap: wrap;
+    }
+    .d_flex1 input:nth-child(2) {
+        max-width: 450px;
+    }
+    .d_flex1 input:nth-child(4) {
+        max-width: 450px;
+    }
     .central_block{
         max-width: 930px;
     }
@@ -67,6 +76,57 @@ header a{
 .central_block1{
     max-width: 689px;
 }
+    .d_flex p:first-child{
+        max-width: 492px;
+    }
+    .d_flex{
+        flex-wrap: wrap;align-items:center;
+    }
+    .third_section img{
+        margin-bottom: 15px;
+    }
+    .second_section .container{
+        flex-wrap: wrap;
+    }
+    .third_section .guideline{
+        margin-bottom: 69px;
+    }
+    .d_flex1 input:nth-child(2){
+        max-width: 450px; margin-bottom: 20px;
+    }
+    .d_flex1 input:nth-child(4){
+        max-width: 450px;
+    }
+    .form .d_flex1{
+        flex-wrap: wrap;
+    }
+    .container1{
+        flex-wrap: wrap;
+    }
+    .guideline h3{
+        padding-left: 14px;
+    }
+    article .d_flex p{
+        max-width: 460px;
+    }
+    .container4{
+        order: 1;
+    }
+    .guideline img:first-child{
+        display: none;
+    }
+    .guideline .w-100.pic{
+        display: block;padding-left: 14px
+    }
+    .third .container3 div:last-child{
+        margin-bottom: 25px;
+    }
+    .third .container3{
+        flex-wrap: wrap;
+    }
+    .second_section .container .pic.d_block{
+        margin-bottom: 30px;
+    }
     .head_container {
         display: none;
     }
