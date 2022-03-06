@@ -5,6 +5,15 @@
     .central_block1{
         max-width: 930px;
     }
+    .contacts_form .flex_box_.space-between a{
+        font-size: 16px;
+        line-height: 140%;
+    }
+    .fifth_section p{
+        font-size: 14px;
+        line-height: 18px;
+        max-width: 141px;
+    }
     .form input:last-child{
         display: none;
     }
@@ -82,8 +91,29 @@ header a{
 .central_block1{
     max-width: 689px;
 }
+    .footer_form.flex_box_.flex_start.align_center{
+        flex-wrap: wrap;
+    }
+    .flex_container{
+        flex-wrap: wrap;
+    }
+    .contacts_form .flex_box_.space-between a{
+        margin-right: 0;
+    }
     .d_flex p:first-child{
         max-width: 492px;
+    }
+    .footer_form p:last-child{
+        margin-bottom: 120px;
+    }
+    .contacts_form .flex_box_.space-between a{
+        margin-bottom: 31px; max-width: 206px;
+    }
+    .w-100.flex_box_.flex-column input:last-child{
+        margin-bottom: 61px;
+    }
+    .contacts_form .flex_box_.space-between.flex_start{
+        flex-wrap: wrap; max-width: 460px;
     }
     .d_flex{
         flex-wrap: wrap;align-items:center;
