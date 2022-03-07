@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add order">
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add 768 media">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1646148710862" duration="930000" />
       <workItem from="1646219484391" duration="20025000" />
       <workItem from="1646491896991" duration="11053000" />
-      <workItem from="1646582737268" duration="3530000" />
+      <workItem from="1646582737268" duration="5826000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -305,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646505665320</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add 768 media">
+      <created>1646586761156</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1646586761156</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +384,7 @@
     <MESSAGE value="finished last section" />
     <MESSAGE value="a little bit of media" />
     <MESSAGE value="add order" />
-    <option name="LAST_COMMIT_MESSAGE" value="add order" />
+    <MESSAGE value="add 768 media" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 768 media" />
   </component>
 </project>

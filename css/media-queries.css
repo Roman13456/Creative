@@ -179,6 +179,31 @@ header a{
         color: #FFFFFF;
     }
 }
+@media only screen and (max-width: 576px) {
+    .central_block1{
+        max-width: 510px;
+    }
+    .main_page .central_block1 h1{
+        font-size: 30px;
+        line-height: 110%;
+    }
+    .main_page p{
+        font-size: 20px;
+        line-height: 110%;
+    }
+    .central_block1{
+        max-width: 510px;
+    }
+    .third_section article a{
+        font-size: 18px;
+        line-height: 140%;
+    }
+    .third_section .unique1{
+        font-size: 20px;
+        line-height: 110%;
+        left:150px
+    }
+}
 @media only screen and (max-width: 420px) {
 
 }
