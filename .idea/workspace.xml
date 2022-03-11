@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="add 768 media">
+    <list default="true" id="e4dc6ef7-c0b8-4c7c-8cd9-67218aa7524c" name="Default Changelist" comment="final changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,8 @@
       <workItem from="1646148710862" duration="930000" />
       <workItem from="1646219484391" duration="20025000" />
       <workItem from="1646491896991" duration="11053000" />
-      <workItem from="1646582737268" duration="5826000" />
+      <workItem from="1646582737268" duration="6182000" />
+      <workItem from="1647006794989" duration="3613000" />
     </task>
     <task id="LOCAL-00001" summary="first_article">
       <created>1644502405960</created>
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646586761156</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="final changes">
+      <created>1646671203719</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1646671203719</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +368,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first_article" />
     <MESSAGE value="a lot" />
     <MESSAGE value="final" />
     <MESSAGE value="final_" />
@@ -385,6 +392,7 @@
     <MESSAGE value="a little bit of media" />
     <MESSAGE value="add order" />
     <MESSAGE value="add 768 media" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 768 media" />
+    <MESSAGE value="final changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="final changes" />
   </component>
 </project>

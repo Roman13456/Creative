@@ -277,6 +277,34 @@ a{
 .form .d_flex1{
     display: flex; justify-content: space-between; margin-bottom: 21px; max-width: 988px;
 }
+@keyframes  header_anim {
+    0%{
+        top:-100px;
+    }
+    50%{
+        top:-50px;
+    }
+    100%{
+        top:0;
+    }
+}
+@keyframes landing {
+    0%{
+        left:-500px
+    }
+    50%{
+        left:-100px
+    }
+    100%{
+       left:0
+    }
+}
+.main_page h1,p,a{
+    animation: landing 1s linear; position: relative;
+}
+header .central_block div{
+    animation: header_anim 1s linear; position: relative;
+}
 .form input:last-child{
     background: #2B59C3;border: none ;border-radius: 40px; font-family: '20 Kopeek'; font-style: normal; font-weight: normal; font-size: 18px; line-height: 140%;color: #FFFFFF; padding: 23px 47px; cursor: pointer;
 }
