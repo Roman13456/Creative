@@ -25,7 +25,6 @@ header{width: 100%; position: absolute;
 }
 .owl-nav:before{
     content: "";
-    background: ;
 }
 .main_page{margin-bottom: 80px; padding-top: 344px; background: url("../images/main_page.jpg") no-repeat; background-size: cover; height: 100vh}
 .main_page.item_1{
